@@ -2,12 +2,12 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
-<a href="https://github.com/vinicius7m/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius7m&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/vinicius7m/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius7m&repo=convoychat" />
-</a>
+<p align="center">
+  <a href="https://github.com/vinicius7m">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinicius7m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinicius7m&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <details>
   <summary> <b> Things to know about me! </b> <i>{click to expand!}</i> </summary>
