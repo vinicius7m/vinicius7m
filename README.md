@@ -2,6 +2,9 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
+Contato:
+Gmail | LinkedIn | Instagram
+
 <p align="center">
   <a href="https://github.com/vinicius7m">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinicius7m&show_icons=true&theme=algolia&count_private=true"/>
@@ -9,13 +12,6 @@ Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Inform�
   </a>
 </p>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>{click to expand!}</i> </summary>
-  
-  <br>
-  
-  This is going to be hidden.
-</details>
 <!--
 **vinicius7m/vinicius7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
