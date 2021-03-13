@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀🚀🚀
+
 ![Vinicius Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius7m&show_icons=true&theme=tokyonight)
 
 <details>
