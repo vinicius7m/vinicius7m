@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vinicius Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius7m&show_icons=true&theme=radical)
+
 <details>
   <summary> <b> Things to know about me! </b> <i>{click to expand!}</i> </summary>
   
