@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/vinicius7m">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinicius7m&show_icons=true&theme=algolia&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinicius7m&layout=compact&theme=algolia&langs_count=8"/>
