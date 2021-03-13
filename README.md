@@ -2,8 +2,13 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
-![Vinicius Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius7m&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius7m&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius7m&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius7m&repo=convoychat" />
+</a>
+
 <details>
   <summary> <b> Things to know about me! </b> <i>{click to expand!}</i> </summary>
   
