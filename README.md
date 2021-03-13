@@ -2,7 +2,7 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-python]](https://www.python.org/)
 
 Gmail | LinkedIn | Instagram
 
