@@ -9,7 +9,7 @@ Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Inform�
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/viniciusm.moreira7/">
-    <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%D674B3.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 Gmail | LinkedIn | Instagram
