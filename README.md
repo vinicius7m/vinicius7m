@@ -2,17 +2,17 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
-<a href="mailto:vinicius.vsm777@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vinicius-moreira77/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/viniciusm.moreira7/">
-    <img src="https://img.shields.io/badge/instagram-%23D674B3.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-Gmail | LinkedIn | Instagram
+<p>
+    <a href="mailto:vinicius.vsm777@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/vinicius-moreira77/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/viniciusm.moreira7/">
+        <img src="https://img.shields.io/badge/instagram-%236C5CE7.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/vinicius7m">
