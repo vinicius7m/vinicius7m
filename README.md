@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Contact me on:
+[Linkedin] [https://www.linkedin.com/in/vin%C3%ADcius-moreira77/]
+
 <!--
 **vinicius7m/vinicius7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
