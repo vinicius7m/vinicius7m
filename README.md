@@ -2,7 +2,9 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-gmail.svg)](https://forthebadge.com)
+<a href="https://www.linkedin.com/in/werick-nalyson/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 Gmail | LinkedIn | Instagram
 
