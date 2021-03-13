@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>{click to expand!}</i> </summary>
+  
+  <br>
+  
+  This is going to be hidden.
+</details>
 <!--
 **vinicius7m/vinicius7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
