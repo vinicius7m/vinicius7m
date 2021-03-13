@@ -2,10 +2,10 @@
 
 Eu sou um Desenvolvedor Web, que está concluindo o curso de Técnico em Informática. E tem o desejo de aprender cada vez mais! 🚀
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vinicius7m/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius7m&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/vinicius7m/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius7m&repo=convoychat" />
 </a>
 
